@@ -4,7 +4,7 @@ export default function HelloPage() {
   return (
     <div>
       <h1>Hello Page111</h1>
-      <p>This is the hello page content11</p>
+      <p>This is the hello page content</p>
     </div>
   );
 }
