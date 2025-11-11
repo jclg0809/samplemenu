@@ -15,9 +15,9 @@ import {
 } from "sample/components/ui/navigation-menu";
 
 const MENU_ITEMS = [
-  { label: "Home", href: "/hello" },
-  { label: "Movie", href: "/hello1" },
-  { label: "Docs", href: "/docspage" },
+  { label: "Home", href: "#" },
+  { label: "Movie", href: "#" },
+  { label: "Docs", href: "#" },
   { label: "About", href: "#" },
   { label: "FAQ", href: "#" },
 ] as const;
