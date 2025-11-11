@@ -5,14 +5,6 @@ import { Tagline } from "sample/components/pro-blocks/landing-page/tagline";
 import { AspectRatio } from "sample/components/ui/aspect-ratio";
 import Link from "next/link";
 
-import {
-  Carousel,
-  CarouselContent,
-  CarouselItem,
-  CarouselNext,
-  CarouselPrevious,
-} from "../components/ui/carousel";
-
 const Card = (props: any) => {
   const { className = "", children, ...rest } = props;
   return (

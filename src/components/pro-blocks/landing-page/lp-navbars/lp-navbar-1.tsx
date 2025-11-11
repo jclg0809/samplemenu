@@ -5,14 +5,6 @@ import { Button } from "sample/components/ui/button";
 import { Menu, X } from "lucide-react";
 import { useState } from "react";
 import Link from "next/link";
-import {
-  NavigationMenu,
-  NavigationMenuContent,
-  NavigationMenuItem,
-  NavigationMenuLink,
-  NavigationMenuList,
-  NavigationMenuTrigger,
-} from "sample/components/ui/navigation-menu";
 
 const MENU_ITEMS = [
   { label: "Home", href: "#" },
