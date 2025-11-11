@@ -2,7 +2,7 @@ import "sample/styles/globals.css";
 
 import { type Metadata } from "next";
 import { Geist } from "next/font/google";
-import Topnav from "./page2/topnav";
+
 import { LpNavbar1 } from "sample/components/pro-blocks/landing-page/lp-navbars/lp-navbar-1";
 
 export const metadata: Metadata = {
